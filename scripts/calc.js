@@ -3,7 +3,8 @@ export class Calculator {
     add(a, b) {
         return a + b;
     }
-ß
+
+    subtract(a, b) {
         return a - b;
     }
 
